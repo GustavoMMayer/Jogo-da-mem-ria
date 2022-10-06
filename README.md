@@ -5,4 +5,4 @@ Desencolvimento baseado em ReactJS.
 
 Deployed:
 
-(Jogo da Memoria){jogo-da-memoria-gustavo.netlify.app}
+jogo-da-memoria-gustavo.netlify.app
